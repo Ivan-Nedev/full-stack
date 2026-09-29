@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "297970206ae9e286",
+    "type": "split",
+    "children": [
+      {
+        "id": "18fb820330d5e27b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfcd3b92bf6d9283",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backend/Framework/SpringBoot/Spring Boot.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spring Boot"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4c958a03236ed1d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "acf8e94d6611c934",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58f397821c878b7d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1b66390a15f70040",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ff0127d43ba6ecf1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6f8486d2c4747fbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "dea2d0cf5598beb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c94946318c704c84",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Backend/Framework/SpringBoot/Spring Boot.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "43e385bddf425fa0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Backend/Framework/SpringBoot/Spring Boot.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "957fe2dd2ce8e453",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "46691272cf5b7eaa",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "dd8e937edd605ec1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Backend/Framework/SpringBoot/Spring Boot.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "8003989908d0db2f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "custom-sort:Toggle custom sorting": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "8003989908d0db2f",
+  "lastOpenFiles": [
+    "README.md",
+    "Welcome.md",
+    "Backend/Framework/SpringBoot/Spring Boot.md",
+    "Backend/General_Software_Engineering",
+    "Backend/DevOps",
+    "Backend/System Design",
+    "Backend/Architecture",
+    "Backend/Design Patterns",
+    "Backend/Security",
+    "Backend/Testing",
+    "Backend/Databases",
+    "Backend/Data Structures & Algorithms",
+    "Backend/Java/Compiler.md",
+    "Backend/Java/Java.md",
+    "Backend/Java/JDK.md",
+    "Backend/Java/JIT.md",
+    "Backend/Java/Tools.md",
+    "Backend/Java/JRE.md",
+    "Backend/Java/JVM.md",
+    "Backend/Java",
+    "images/технополис_сектор_компютри_ипериферия.png",
+    "images/технополис_идея_сектор.png",
+    "images/таблица_няколко_езика.jpg",
+    "images/права_опаковка_дребен_текст.jpg",
+    "images/прав_чист_текст (8).jpg",
+    "images/отблясък.jpg",
+    "images/наклонена_опаковка_дребен_текст_размазано.jpg",
+    "images/наклонена опаковка, дребен текст.jpg",
+    "images/Коте Диего (Cat Diego)-1008x698.jpg",
+    "images/Йерархия в Exceptions в Java.png"
+  ]
+}

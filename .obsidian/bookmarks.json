@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1790694964299,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1790694964299,
+          "items": [
+            {
+              "type": "group",
+              "ctime": 1790699274721,
+              "items": [],
+              "title": "General_Software_Engineering"
+            },
+            {
+              "type": "group",
+              "ctime": 1790694964300,
+              "items": [],
+              "title": "Java"
+            },
+            {
+              "type": "group",
+              "ctime": 1790694964300,
+              "items": [],
+              "title": "Data Structures & Algorithms"
+            },
+            {
+              "type": "group",
+              "ctime": 1790694964300,
+              "items": [],
+              "title": "Databases"
+            },
+            {
+              "type": "group",
+              "ctime": 1790694964300,
+              "items": [],
+              "title": "Framework"
+            },
+            {
+              "type": "group",
+              "ctime": 1790694964300,
+              "items": [],
+              "title": "Testing"
+            },
+            {
+              "type": "group",
+              "ctime": 1790694964300,
+              "items": [],
+              "title": "Security"
+            },
+            {
+              "type": "group",
+              "ctime": 1790694964300,
+              "items": [],
+              "title": "Design Patterns"
+            },
+            {
+              "type": "group",
+              "ctime": 1790694964300,
+              "items": [],
+              "title": "Architecture"
+            },
+            {
+              "type": "group",
+              "ctime": 1790694964300,
+              "items": [],
+              "title": "System Design"
+            },
+            {
+              "type": "group",
+              "ctime": 1790694964300,
+              "items": [],
+              "title": "DevOps"
+            }
+          ],
+          "title": "\\\\Backend"
+        }
+      ],
+      "title": "sortspec"
+    }
+  ]
+}
