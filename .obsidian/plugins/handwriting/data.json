@@ -1,0 +1,51 @@
+{
+  "savedViews": [],
+  "cameras": {},
+  "inkSizes": {
+    "pen": 1,
+    "highlighter": 0.375
+  },
+  "inkColors": {
+    "pen": "#2f6de0",
+    "highlighter": "#ffd60a"
+  },
+  "pressureSensitivity": true,
+  "pressureChoice": true,
+  "inkSmoothing": true,
+  "inkAdaptsToTheme": false,
+  "inkReadableInExports": true,
+  "inkPdfColorMode": "darken",
+  "pageOwners": {
+    "b5bf86db-e722-470a-91bd-4d96fdeebc57": "Frontend/Frontend.md"
+  },
+  "eraserRadiusPx": 14,
+  "mouseInk": false,
+  "strokePrediction": true,
+  "booxMode": false,
+  "einkHintOffered": false,
+  "scribbleHintOffered": false,
+  "paperStyle": "none",
+  "extendCanvasWhileScrolling": false,
+  "hideStatusBarOnInkedNotes": false,
+  "penTools": "auto",
+  "noteZoomControls": "auto",
+  "barsRestore": null,
+  "eraserMode": "stroke",
+  "penReticle": true,
+  "shapeSnap": true,
+  "devDiagnostics": false,
+  "slidesInk": true,
+  "colorSizeCommands": false,
+  "penPresets": [],
+  "toolbarCorner": "top-right",
+  "stripFoldOrder": [
+    "editor:redo",
+    "handwriting:inline-tool-pan",
+    "handwriting:pen-ink-toggle",
+    "handwriting:paste-ink",
+    "handwriting:copy-selected-ink",
+    "handwriting:inline-tool-space"
+  ],
+  "inkFolder": ".handwriting",
+  "lastSeenVersion": "1.4.22"
+}
